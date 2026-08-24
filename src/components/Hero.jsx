@@ -200,7 +200,7 @@ export default function Hero({ onNavigate, onOpenQuiz }) {
                 boxShadow: 'inset 0 2px 8px rgba(0,0,0,0.04)'
               }}>
                 <img 
-                  src="/images/detox_slim.png" 
+                  src="./images/detox_slim.png" 
                   alt="Naturilia Detox Slim Suplemento Natural" 
                   style={{
                     maxHeight: '240px',

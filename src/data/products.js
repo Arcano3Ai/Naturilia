@@ -11,7 +11,7 @@ export const PRODUCTS = [
     reviewsCount: 142,
     badge: "Más Vendido",
     badgeType: "gold",
-    image: "/images/detox_slim.png",
+    image: "./images/detox_slim.png",
     fallbackIcon: "🌿",
     accentColor: "#0B3B2C",
     presentation: "60 Cápsulas Vegetales (Suministro para 30 días)",
@@ -38,7 +38,7 @@ export const PRODUCTS = [
     reviewsCount: 189,
     badge: "Top Valoración",
     badgeType: "emerald",
-    image: "/images/collagen_beauty.png",
+    image: "./images/collagen_beauty.png",
     fallbackIcon: "✨",
     accentColor: "#D4AF37",
     presentation: "Polvo Soluble de 450g (Sabor Frutos Rojos / Neutro)",
@@ -65,7 +65,7 @@ export const PRODUCTS = [
     reviewsCount: 98,
     badge: "Fórmula Avanzada",
     badgeType: "gold",
-    image: "/images/detox_slim.png", // fallback or stylized preview
+    image: "./images/detox_slim.png", // fallback or stylized preview
     fallbackIcon: "🔥",
     accentColor: "#B89222",
     presentation: "60 Cápsulas de Alta Potencia",
@@ -92,7 +92,7 @@ export const PRODUCTS = [
     reviewsCount: 115,
     badge: "Esencial",
     badgeType: "emerald",
-    image: "/images/collagen_beauty.png", // styled glass jar preview
+    image: "./images/collagen_beauty.png", // styled glass jar preview
     fallbackIcon: "🌙",
     accentColor: "#165B46",
     presentation: "90 Cápsulas (Suministro para 45 días)",
@@ -119,7 +119,7 @@ export const PRODUCTS = [
     reviewsCount: 87,
     badge: "Digestión Top",
     badgeType: "gold",
-    image: "/images/detox_slim.png",
+    image: "./images/detox_slim.png",
     fallbackIcon: "🌱",
     accentColor: "#2D6A4F",
     presentation: "Polvo Soluble 360g",
@@ -146,7 +146,7 @@ export const PRODUCTS = [
     reviewsCount: 76,
     badge: "Antiinflamatorio",
     badgeType: "emerald",
-    image: "/images/collagen_beauty.png",
+    image: "./images/collagen_beauty.png",
     fallbackIcon: "✨",
     accentColor: "#D4AF37",
     presentation: "60 Softgels de Rápida Liberación",
